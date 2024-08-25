@@ -10,9 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - No Exams or Midterms for CS193
 - Learning CS193 by a student that took this class previously
 - Easy class which will boost my GPA
-- 
+  
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
