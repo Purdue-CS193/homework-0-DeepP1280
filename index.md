@@ -1,4 +1,3 @@
-## Deep's First CS193 Homework
 
 
 
